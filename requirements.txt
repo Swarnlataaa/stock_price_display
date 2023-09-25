@@ -1,4 +1,4 @@
-appdirs==1.4.4 
+appdirs == 1.4.4 
 beautifulsoup4==4.12.2 
 frozendict==2.3.8 
 html5lib==1.1 
